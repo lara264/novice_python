@@ -1,0 +1,8 @@
+No
+Yes
+You've reached the end of the map!
+An enemy is near.
+Walk forward
+turn to your right
+turn to your left
+turn around
